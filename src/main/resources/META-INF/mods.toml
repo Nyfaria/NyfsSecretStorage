@@ -1,0 +1,11 @@
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="nyfsforgetemplate"
+version="${file.jarVersion}"
+displayName="Nyf's Forge Tempalte"
+authors="TheNyfaria"
+description='''
+'''

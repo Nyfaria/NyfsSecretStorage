@@ -3,9 +3,9 @@ modLoader="javafml"
 loaderVersion="[36,)"
 license="All rights reserved"
 [[mods]]
-modId="nyfsforgetemplate"
+modId="nyfssecretstorage"
 version="${file.jarVersion}"
-displayName="Nyf's Forge Tempalte"
+displayName="Nyf's Secret Storage"
 authors="TheNyfaria"
 description='''
 '''
